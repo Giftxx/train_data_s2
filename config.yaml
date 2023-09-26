@@ -1,0 +1,7 @@
+path : C:\Users\User\Desktop\datas\data
+train : images\train
+val : images\train
+
+names:
+  0: Alive
+  1: dead
